@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SOdaQ0BrrMIsZJC1btqKptpaNcZFmpWwJLlCR9jIrlMJ1ZtpjbQZpMw/cajovA2fw7I4OIe0BUIlQxPgAdYAzw==",
+  "success": true,
+  "projectFilePath": "H:\\Resupmiet\\95\\Lab09-LINQ\\LINQ\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\96278\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
